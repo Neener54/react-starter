@@ -35,6 +35,8 @@
     "less": "^1.7.4",
     "less-loader": "^0.7.5",
     "null-loader": "^0.1.0",
-    "html-loader": "^0.2.2"
+    "html-loader": "^0.2.2",
+    "react-bootstrap": "0.12.0",
+    "delorean.js": "0.8.4"
   }
 }
